@@ -233,21 +233,21 @@ This project was developed as a university project to demonstrate:
 # Screenshots
 
 * Login Screen
-* <img width="1380" height="958" alt="image" src="https://github.com/user-attachments/assets/e2316910-93f6-461d-9971-2806d7f03d79" />
+<img width="1380" height="958" alt="image" src="https://github.com/user-attachments/assets/e2316910-93f6-461d-9971-2806d7f03d79" />
 
 * Student Dashboard
-* <img width="1160" height="930" alt="image" src="https://github.com/user-attachments/assets/62a970ad-9c38-4f6a-9339-44aac7293b8c" />
+<img width="1160" height="930" alt="image" src="https://github.com/user-attachments/assets/62a970ad-9c38-4f6a-9339-44aac7293b8c" />
 
 * Admin Dashboard
-* <img width="1478" height="955" alt="image" src="https://github.com/user-attachments/assets/023f37ff-26c5-432e-ae93-711d39e0f121" />
-* <img width="1491" height="942" alt="image" src="https://github.com/user-attachments/assets/b3cc8096-3144-41ef-a39b-43604004e314" />
+<img width="1478" height="955" alt="image" src="https://github.com/user-attachments/assets/023f37ff-26c5-432e-ae93-711d39e0f121" />
+<img width="1491" height="942" alt="image" src="https://github.com/user-attachments/assets/b3cc8096-3144-41ef-a39b-43604004e314" />
 
 
 * Request Forms
-* <img width="1150" height="955" alt="image" src="https://github.com/user-attachments/assets/006b62c7-d44b-49db-8eb1-c13f6712b7b9" />
-* <img width="1197" height="941" alt="image" src="https://github.com/user-attachments/assets/60d78201-1db8-4594-aa04-3ad3b51972b5" />
-* <img width="1153" height="936" alt="image" src="https://github.com/user-attachments/assets/b7e72d91-1fa9-41f7-8fbb-e548cf7d4a9d" />
-* <img width="1172" height="977" alt="image" src="https://github.com/user-attachments/assets/53c70bc6-b8dd-44bc-a01d-c3d1fedb6b50" />
+<img width="1150" height="955" alt="image" src="https://github.com/user-attachments/assets/006b62c7-d44b-49db-8eb1-c13f6712b7b9" />
+<img width="1197" height="941" alt="image" src="https://github.com/user-attachments/assets/60d78201-1db8-4594-aa04-3ad3b51972b5" />
+<img width="1153" height="936" alt="image" src="https://github.com/user-attachments/assets/b7e72d91-1fa9-41f7-8fbb-e548cf7d4a9d" />
+<img width="1172" height="977" alt="image" src="https://github.com/user-attachments/assets/53c70bc6-b8dd-44bc-a01d-c3d1fedb6b50" />
 
 
 
